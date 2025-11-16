@@ -3,9 +3,21 @@
 # AIM:
 To develop a project Student Information System using star UML tools.
 
-# PROBLEM STATEMENT:
-A Student information system (SIS) is a software application for educational establishments to manage student data. Student information systems provide capabilities for entering student test and other assessment scores, building student schedules, tracking student attendance, and managing many other student-related data needs in a school, college or university.
+# SRS (Procedure):
 
+Step 1 - Open StarUML and start a new project.
+
+Step 2 - Name the project based on the system (e.g., ATM, Library).
+
+Step 3 - Identify actors and use cases from the system requirements.
+
+Step 4 - Choose and draw diagrams (Use Case, Class, Sequence, etc.).
+
+Step 5 - Add elements using the toolbox and connect them properly.
+
+Step 6 - Label all components clearly and meaningfully.
+
+Step 7 - Save and export diagrams as images or PDF.
 
 # UML DIAGRAMS:
 
@@ -25,7 +37,7 @@ A Student information system (SIS) is a software application for educational est
 ![ActivityDiagram For Exam Registration system](https://github.com/user-attachments/assets/bca065e8-3daf-4bb2-ab9e-e63af5257df9)
 
 ## PACKAGE DIAGRAM:
-![CommunicationDiagram for Exam Registration system](https://github.com/user-attachments/assets/53c6373d-d8fd-4dbd-a274-a2d720a94f5f)
+![image](https://github.com/user-attachments/assets/20eabc23-96f8-4209-86f4-887d2713dc4f)
 
 # RESULT:
 Thus the Student information system project was executed and the output was verified.
